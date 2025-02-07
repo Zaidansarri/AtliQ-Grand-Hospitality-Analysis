@@ -52,4 +52,4 @@ The revenue management team at **AtliQ Grands** needs actionable insights to:
 3. Use filters and slicers to analyze specific trends.
 
 ## 🔗 References
-- **Codebasics Resume Challenge:** [Website](https://surl.li/gvaozi)
+  **Codebasics Resume Challenge:** [Website Link](https://surl.li/gvaozi)
