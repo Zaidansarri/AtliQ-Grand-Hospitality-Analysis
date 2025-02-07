@@ -3,7 +3,7 @@ AtliQ Grand, a five-star hotel chain in India, has been facing a decline in mark
 
 This project was completed as part of the **Codebasics Resume Challenge** and focuses on analyzing hotel performance across key metrics such as bookings, revenue, customer behavior, and ratings.
 
-**AtliQ Grand Hospitality Analysis**: [**Live Dashboard**](https://surl.li/gckdlp)
+**AtliQ Grand Hospitality Analysis**: [**Live Dashboard**](https://surl.li/nadzpq)
 
 ## Acknowledgments
 
